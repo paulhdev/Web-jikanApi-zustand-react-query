@@ -1,0 +1,933 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
+<div>
+  <main
+    class="max-w-7xl w-full mx-auto pb-10"
+  >
+    <header
+      class="w-full bg-[#D53053] p-4 rounded-b-md mb-10 flex flex-wrap items-center flex-row justify-between"
+    >
+      <h1
+        class="font-semibold text-xl"
+      >
+        InforManga
+      </h1>
+      <button
+        class="bg-black/25 p-2 rounded-md"
+      >
+        Show Favorites
+      </button>
+    </header>
+    <h2
+      class="text-4xl font-semibold mb-4 text-center sm:text-left p-2"
+    >
+      Top Mangas
+    </h2>
+    <section
+      class="max-w-7xl w-full flex flex-wrap flex-row items-center justify-center sm:justify-between space-x-3 space-y-4 p-2"
+    >
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Berserk"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/1/157897.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Berserk
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-2"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="JoJo no Kimyou na Bouken Part 7: Steel Ball Run"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/179882.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            JoJo no Kimyou na Bo...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-1706"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Vagabond"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/1/259070.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Vagabond
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-656"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="One Piece"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/253146.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            One Piece
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-13"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Monster"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/258224.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Monster
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-1"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Slam Dunk"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/258749.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Slam Dunk
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-51"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Fullmetal Alchemist"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/243675.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Fullmetal Alchemist
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-25"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Vinland Saga"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/188925.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Vinland Saga
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-642"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Grand Blue"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/166124.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Grand Blue
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-70345"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Oyasumi Punpun"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/266834.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Oyasumi Punpun
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-4632"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Kingdom"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/171872.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Kingdom
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-16765"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Houseki no Kuni"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/1/115443.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Houseki no Kuni
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-44489"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="20th Century Boys"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/5/260006.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            20th Century Boys
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-3"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Ashita no Joe"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/1/268827.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Ashita no Joe
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-1303"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Monogatari Series: First Season"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/279887.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Monogatari Series: F...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-14893"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/188896.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Kaguya-sama wa Kokur...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-90125"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Mikkakan no Koufuku"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/248674.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Mikkakan no Koufuku
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-126479"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Monogatari Series: Second Season"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/181553.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Monogatari Series: S...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-23751"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Real"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/115969.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Real
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-657"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="GTO"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/172982.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            GTO
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-336"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="3-gatsu no Lion"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/52283.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            3-gatsu no Lion
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-1224"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/2/177958.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Youkoso Jitsuryoku S...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-89357"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/3/235363.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Youkoso Jitsuryoku S...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-123992"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Yotsuba to!"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/5/259524.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Yotsuba to!
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-104"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+      <article
+        class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
+      >
+        <img
+          alt="Monogatari Series: Final Season"
+          class="max-w-[14rem] w-full max-h-[20rem] h-full border-2 border-white rounded-sm mb-4"
+          src="https://cdn.myanimelist.net/images/manga/1/181554.jpg"
+        />
+        <div
+          class="w-full flex flex-row flex-wrap items-center justify-between"
+        >
+          <p>
+            Monogatari Series: F...
+          </p>
+          <button
+            class="hover:scale-105 transition-all delay-150"
+            data-testid="Toggle-Favorite-Button-44227"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6 text-[#D53053]"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </article>
+    </section>
+  </main>
+</div>
+`;
