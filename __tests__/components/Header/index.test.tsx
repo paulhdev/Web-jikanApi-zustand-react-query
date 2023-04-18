@@ -11,7 +11,7 @@ describe('Header component render and show favorites button click', () => {
 
   it('Button show favorite mangas click successfully', () => {
     render(<Header />);
-    const showFavoriteMangasButton = screen.getByText(/show favorites/i);
+    const showFavoriteMangasButton = screen.getByText(/show favorites/i) || screen.getByText(/go back/i);
 
     fireEvent.click(showFavoriteMangasButton);
   });

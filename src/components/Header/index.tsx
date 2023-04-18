@@ -21,7 +21,9 @@ export default function Header() {
         onClick={toogleShowOnlyFavorites}
         className='bg-black/25 p-2 rounded-md'
       >
-        Show Favorites
+        {
+          showOnlyFavorites ? 'Show All' : 'Show Favorites'
+        }
       </button>
     </header>
   );

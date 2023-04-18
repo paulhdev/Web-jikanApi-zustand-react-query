@@ -4,6 +4,7 @@ import { HeartIcon as HeartSolid } from '@heroicons/react/24/solid'
 import { useFavoriteMangas } from '@/store/useFavoriteMangas';
 
 import { TopManga } from "@/services/requests/useFetchTopMangas/types";
+import Link from 'next/link';
 
 type MangaProps = {
   data: TopManga;
@@ -49,6 +50,12 @@ export default function CardManga({ data }: MangaProps) {
             </button>
         }
       </div>
+      <Link
+        href={`/details/${data.mal_id}`}
+        className='block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150'
+      >
+        View more
+      </Link>
     </article>
 
   );

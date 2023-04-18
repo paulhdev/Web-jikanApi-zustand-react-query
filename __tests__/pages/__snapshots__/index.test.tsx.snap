@@ -62,6 +62,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/2"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -98,6 +104,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/1706"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -134,6 +146,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/656"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -170,6 +188,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/13"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -206,6 +230,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/1"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -242,6 +272,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/51"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -278,6 +314,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/25"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -314,6 +356,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/642"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -350,6 +398,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/70345"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -386,6 +440,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/4632"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -422,6 +482,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/16765"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -458,6 +524,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/44489"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -494,6 +566,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/3"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -530,6 +608,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/1303"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -566,6 +650,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/14893"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -602,6 +692,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/90125"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -638,6 +734,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/126479"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -674,6 +776,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/23751"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -710,6 +818,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/657"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -746,6 +860,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/336"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -782,6 +902,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/1224"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -818,6 +944,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/89357"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -854,6 +986,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/123992"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -890,6 +1028,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/104"
+        >
+          View more
+        </a>
       </article>
       <article
         class="max-w-[16rem] w-full min-h-[26rem] flex flex-col items-center justify-center bg-black/40 rounded-md p-3"
@@ -926,6 +1070,12 @@ exports[`HomeScreen render verify mangas match snapshot successfully 1`] = `
             </svg>
           </button>
         </div>
+        <a
+          class="block w-full p-2 rounded-md bg-[#D53053] text-center mt-3 hover:scale-105 transition-all delay-150"
+          href="/details/44227"
+        >
+          View more
+        </a>
       </article>
     </section>
   </main>
